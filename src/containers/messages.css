@@ -1,0 +1,12 @@
+.messages-container {
+    background: #81d4fa;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    background: #757575;
+    text-align: center;
+    text-shadow: 4px 4px 11px rgb(210, 211, 212);
+    box-shadow: 2px 4px 10px -3px;
+}

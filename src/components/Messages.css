@@ -1,0 +1,23 @@
+.messages-profile {
+    display: flex;
+    margin-bottom: 10px;
+    border-color: bisque;
+    width: 50%;
+    background: #29b6f6;
+    box-sizing: content-box;
+    box-shadow: 2px 4px 10px -3px;
+  }
+
+.avatar {
+    box-shadow: 2px 4px 10px -3px;
+}
+
+.image-card {
+    margin-right: 10px;
+}
+
+.email {
+    background: #1a237e;
+    color: white;
+    box-shadow: 2px 4px 10px -3px;
+}
